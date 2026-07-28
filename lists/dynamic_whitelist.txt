@@ -1,5 +1,2 @@
 # connect.facebook.net
-#fonts.googleapis.com
-#googletagmanager.com
-#pagead2.googlesyndication.com
-#html-load.com
+html-load.com
