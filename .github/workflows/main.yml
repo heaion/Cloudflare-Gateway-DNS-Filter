@@ -2,8 +2,8 @@ name: Cloudflare Gateway DNS Filter (Block + Allow)
 
 on:
   push:
-   #schedule:
-   #  - cron: "0 10 02 * * * *"   # Every Friday midnight UTC
+   schedule:
+     - cron: "0 30 07 * * * *"   # Every Friday midnight UTC
   workflow_dispatch:
 
 jobs:
